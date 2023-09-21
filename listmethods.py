@@ -1,3 +1,4 @@
 a = [10,'a',323]
-
-print(a)
+b = [22]
+c = a + b
+print(c)
