@@ -1,0 +1,2 @@
+#gcd
+n = int(input())
