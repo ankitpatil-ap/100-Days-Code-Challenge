@@ -5,3 +5,4 @@ for i in num:
     result = num * (num-i)
     sum = num = i
 print(sum)
+print(result)
