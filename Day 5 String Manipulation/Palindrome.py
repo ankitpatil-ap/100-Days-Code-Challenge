@@ -1,0 +1,1 @@
+#Create a script that checks if a given string is a palindrome. 
