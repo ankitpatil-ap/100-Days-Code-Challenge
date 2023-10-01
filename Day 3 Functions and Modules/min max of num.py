@@ -1,0 +1,1 @@
+#Define functions to find the maximum and minimum of three numbers
