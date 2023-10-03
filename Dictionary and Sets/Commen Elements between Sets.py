@@ -6,7 +6,7 @@ l3 = [32,3,11,14,22,111]
 print(l2 == l1)
 l1.append(2)
 print(l2 == l1)
-print(l1)
 print(l2 == l3)
+print(l1)
 l1.remove(2)
 print(l1)
