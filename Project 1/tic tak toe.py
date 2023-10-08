@@ -1,3 +1,3 @@
 x = input()
 y = input()
-sadjl
+count = input()
