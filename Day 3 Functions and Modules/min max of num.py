@@ -5,3 +5,6 @@ n = input("Enter first Number: ")
 m = input("Enter first Number: ")
 o = input("Enter first Number: ")
 
+def min():
+    if n<m & n<o:
+        print(n)
