@@ -22,9 +22,10 @@ elif Choice == '2':
     celsius = (fahrenheit - 32) * 5/9
     print(f"Temperature in Celsius: {celsius} °C")
 else:
-    print("Invalid choice. Please choose 1 or 2.")
+    print("Invalid choice. Please choose 1 or 2..")
 
-#Output
+
+#Output hello
 
 
 '''
