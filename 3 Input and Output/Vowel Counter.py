@@ -10,4 +10,5 @@ num_vowels = sum(user_input.count(vowel) for vowel in 'aeiouAEIOU')
 print("Number of vowels:", num_vowels)
 
 
-#this program will print only vowels and other letters will be ignored.
+#this program will print only vowels and 
+# #other letters will be ignored.
