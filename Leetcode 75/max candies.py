@@ -1,19 +1,15 @@
 kids = int(input())
-candies = []
-for i in range(kids):
-    value = input()
-    i = i +1 
-    candies.append()
+candies = [int(input()) for _ in range(kids)]
+#print(candies)
+result = []
 
-print(candies)
-'''
 maxi = max(candies)
 extraCandies = int(input())
 
-for i in candies:
-    if i>=maxi:
-        print('False')
+for kidscandies in candies:
+    if kidscandies + extraCandies>=maxi:
+        result.append(True)
     else: 
-        print('True')
-
-'''
+        result.append(False)
+    
+print(result)
