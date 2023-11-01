@@ -16,4 +16,4 @@ elif shape == 3:
     length = int(input())
     breadth = int(input())
     areaofrect = length*breadth
-    print("Area of Rectangle is :",areaofrect)
+    print("Area of Rectangle is :",areaofrect) #area of rectangle.
