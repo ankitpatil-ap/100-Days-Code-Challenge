@@ -12,4 +12,4 @@ for kidscandies in candies:
     else: 
         result.append(False)
     
-print(result)#
+print(result)
